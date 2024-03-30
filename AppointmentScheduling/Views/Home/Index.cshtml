@@ -1,0 +1,67 @@
+﻿@inject Microsoft.AspNetCore.Hosting.IWebHostEnvironment webHostEnvironment
+@{
+    ViewData["Title"] = "Doctor Appointment";
+    string imagePath = $"{webHostEnvironment.WebRootPath}/Images/background.jpg";
+}
+@section head {
+    <style type="text/css">
+        body {
+            background-image: url('/Images/background2.jpg');
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+}
+
+<style>
+    .text-center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 30%);
+        color: white;
+        text-shadow: 2px 3px 0px rgba(0,0,0,0.2);
+    }
+
+        .text-center h1,
+        .text-center p,
+        .text-center a {
+            opacity: 0;
+            animation: fadeInUp 3s forwards;
+        }
+
+        .text-center > *{
+            color: black;
+        }
+    @@keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(50px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="text-center">
+                <h1 class="display-2">Welcome to Doctor Appointment</h1>
+                <p class="lead">Schedule your appointments with ease.</p>
+                <p class="lead">Find the perfect time to see your doctor.</p>
+                <p class="lead">Make your work easy by organizing your patients' appointments here.</p>
+                <p class="lead">You can register now and schedule your appointment.</p>
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <a href="/Account/Register" style="color: white" class="btn btn-primary btn-lg">Register Now</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\leoda\\desktop\\projects\\appointmentscheduler-master\\appointmentscheduling\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\leoda\\desktop\\projects\\appointmentscheduler-master\\appointmentscheduling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\leoda\\desktop\\projects\\appointmentscheduler-master\\appointmentscheduling\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\leoda\\desktop\\projects\\appointmentscheduler-master\\appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{594218FF-BDF6-44F7-8019-9086988D0A0D}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppointmentScheduling\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T14:41:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppointmentScheduling\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T13:59:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "AppointmentScheduling\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:51:01.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\appsettings.json",
+              "ToolTip": "C:\\Users\\leoda\\Desktop\\Projects\\AppointmentScheduler-master\\AppointmentScheduling\\appsettings.json",
+              "RelativeToolTip": "AppointmentScheduling\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T13:43:37.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
