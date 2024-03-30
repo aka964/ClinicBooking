@@ -38,6 +38,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or feedback regarding the Clinic Appointment System, feel free to contact us:
 
-- **GitHub**: [yourusername](https://github.com/aka964)
+- **GitHub**: [aka964](https://github.com/aka964)
 
 I appreciate your interest and support!
