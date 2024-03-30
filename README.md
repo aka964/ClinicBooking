@@ -16,6 +16,7 @@ The Clinic Appointment System simplifies the process of scheduling and managing 
 
 - **HTML5**: Provides the structure for the web pages and user interface components.
 - **CSS3**: Styles the user interface elements for an intuitive and visually appealing experience.
+- - **JavaScript**: Implements client-side functionality for dynamic interactions and form validations.
 - **Asp.Net Core 6.0**: Handles server-side logic, data storage, and API endpoints for communication between the frontend and backend.
 - **Sql Server**: Stores appointment data, user information, and other relevant data.
 
